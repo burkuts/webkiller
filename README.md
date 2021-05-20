@@ -7,7 +7,7 @@
 Araç Bilgileri Python ile Yazma Toplama.
 
 
-## PreView
+## Ön izleme
 <pre>
 
     
