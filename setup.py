@@ -18,11 +18,18 @@ setup(name='webkiller',
           ]
       },
       install_requires=[
-          'adb-shell'
           'requests'
-          'colorama'
-          'ipapi'
-          'builtwith'
+
       ],
+       install_requires=[
+             'colorama'
+      ],
+       install_requires=[
+             'ipapi'
+      ],
+       install_requires=[
+             'builtwith'
+      ],
+   
       zip_safe=False
 )
